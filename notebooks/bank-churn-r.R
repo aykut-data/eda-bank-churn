@@ -1,6 +1,5 @@
 install.packages("e1071")
 install.packages("dplyr")
-
 library(e1071)
 library(dplyr)
 
@@ -77,3 +76,4 @@ barplot(geography_distribution_np$Products,
         xlab = "Geography",
         ylab = "Number of Products",
         main = "Number of Products by Geography")
+
