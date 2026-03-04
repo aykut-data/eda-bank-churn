@@ -1,8 +1,8 @@
 # 🏦 Bank Churn Analysis (DSI Coursework)
 **R + Python | Exploratory Data Analysis & Management | Customer Retention**
 ## 📁 Repository Structure
-📁 data/ (CSV datasets)
 📁 analysis/ (PDF reports)
+📁 data/ (CSV datasets)
 📁 notebooks/ (R + Python code)
 ## 📊 Data & Reports 
 📄 (Bank Churn.csv)
